@@ -1,0 +1,15 @@
+{
+  "name":         "TokyoCabinet",
+  "version":      "0.1",
+  "description":  "An ordered key/value database that supports transactions and arbitrary key and value sizes.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["TokyoCabinet", "QDBM", "DKDB"],
+  "dependencies": {
+    "libs":     ["tokyocabinet"],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
